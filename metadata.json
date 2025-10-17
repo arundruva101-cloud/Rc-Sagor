@@ -1,0 +1,5 @@
+{
+  "name": " Upcoming Movie Calendar",
+  "description": "An interactive calendar that displays upcoming movie releases for any given month, powered by Gemini. Click on a movie to see more details.",
+  "requestFramePermissions": []
+}
